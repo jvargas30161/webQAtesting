@@ -1,0 +1,23 @@
+{
+    "alimentacion": {
+      "arroz": {},
+      "leche": {},
+      "yogurt": {},
+      "jamonada": {},
+      "jamon": {},
+      "lentejas": {}
+    },
+    "productos_limpieza": {
+      "jabon_de_manos": {},
+      "shampoo": {},
+      "crema_dental": {},
+      "gel_de_gucha": {},
+      "cepillo_de_dientes": {}
+    },
+    "productos_congelados": {
+      "croquetas": {},
+      "pescado": {},
+      "pechugas_de_pollo": {}
+    }
+  }
+  
